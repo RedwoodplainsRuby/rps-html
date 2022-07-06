@@ -1,0 +1,13 @@
+<p><a href="/rock"> Play rock</a></p>
+
+<p><a href="/paper"> Play paper</a></p>
+<a href="/scissors"> Play scissors</a>
+
+
+
+
+
+
+<h2>We played scissors!</h2>
+<h2>They played rock!</h2>
+<h2> We lost!</h2>
